@@ -1,0 +1,10 @@
+body {
+    color: rgb(176, 179, 5);
+    font-size: medium;
+}
+.form-control {
+    border-bottom: solid 0,5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
